@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning html 5, css 3 and js.
 - 💞️ I’m looking to collaborate on projects for learning and helping people around the world.
 - 📫 How to reach me in:
-- @alkaios on twitter
 
 <!---
 Soiakla/Soiakla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
